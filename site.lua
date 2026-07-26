@@ -26,6 +26,6 @@ end)
 
 InputBoxHandle = MachoMenuInputbox(FirstSection, "Input", "...")
 
-MachoMenuButton(FirstSection, "Close", function()
+MachoMenuButton(FirstSection, "CloseEEEEEEEEEEEE", function()
     MachoMenuDestroy(MenuWindow)
 end)
